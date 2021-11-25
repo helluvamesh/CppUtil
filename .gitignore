@@ -1,0 +1,5 @@
+/gitignore
+/.git
+/.vs
+/x64
+/CppUtil/x64
